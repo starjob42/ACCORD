@@ -1,6 +1,6 @@
 # ACCORD: Autoregressive Constraint-satisfying Generation for COmbinatorial Optimization with Routing and Dynamic attention 
 
-[Pipeline OverView](Pipline.png)
+![Pipeline Overview](Pipeline.jpg)
 
 This repository contains code for training and running inference with language models on combinatorial optimization problems using the ACCORD dataset. The models are fine-tuned to solve various optimization problems including Vehicle Routing, Traveling Salesman, Knapsack, Bin Packing, Job Shop Scheduling, and Flow Shop Scheduling.
 
