@@ -12,7 +12,7 @@ This repository contains code for training and running inference with language m
   </a>
 </div>
 
-The training and validation data comes from the [ACCORD dataset](https://huggingface.co/datasets/henri24/ACCORD).
+The training and validation data comes from the [ACCORD dataset](https://huggingface.co/datasets/mideavalwisard/ACCORD).
 
 **Important:** The folder structure for the dataset must exactly match what's in the Hugging Face repository. When you download the dataset, ensure that the files are organized in the same hierarchy as in the original dataset repository.
 
