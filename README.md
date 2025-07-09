@@ -32,7 +32,7 @@ pip install unsloth torch datasets transformers numpy pandas matplotlib seaborn 
 
 ## Dataset Setup
 
-1. Download the ACCORD dataset from Hugging Face: https://huggingface.co/datasets/henri24/ACCORD
+1. Download the ACCORD dataset from Hugging Face
 2. Place the data in your project directory, maintaining the following structure:
 
 ```
